@@ -1,5 +1,5 @@
 # rs-16-odometry
-Using the 3D Lidar RS-16 made by RoboSense to get odometry data
+Extract odometry data from the RS-16 3D Lidar
 
 
 ## Step 1: Install rslidar_sdk
