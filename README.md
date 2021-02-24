@@ -56,6 +56,8 @@ Open a new terminal and try to ping the sensor:
 ping 192.168.1.200
 ```
 
+The last thing you need to change is the sensor type in rslidar_sdk/config/config.yaml line 16, depending on which sensor you have. These are your options: RS16, RS32, RSBP, RS128, RS80, RSM1, RSHELIOS. 
+
 ## Step 3: Install hdl_graph_slam
 
 Install dependencies:
